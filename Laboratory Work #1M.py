@@ -1,6 +1,3 @@
-#Developer Name: Nicole Adrianne M. Esmeralda
-#Date of Development: October 16, 2023
-
 # Function to create a new stack
 def create_stack(name): # 'name' parameter is the name of the stack to be created
     stack = list() # Create an empty list to represent the stack
